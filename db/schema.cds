@@ -70,3 +70,6 @@ entity Urgency : CodeList {
 
 type EMailAddress : String;
 type PhoneNumber  : String;
+type Email : String;
+
+// End of file
